@@ -1,1 +1,1 @@
-web: npm start:prod
+web: NODE_ENV=production node pre-prod-env.js
