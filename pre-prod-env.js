@@ -1,4 +1,4 @@
-var app = require('./app');
+var app = require('./config/lib/app');
 
 app.set('port', process.env.PORT || 3000);
 

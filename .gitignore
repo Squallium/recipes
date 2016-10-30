@@ -3,6 +3,10 @@
 .idea/vcs.xml
 .idea/runConfigurations
 
+# sass compiler
+*.css
+*.css.map
+
 # Logs
 logs
 *.log
