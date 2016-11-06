@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "start": "gulp",
-    "start:prod": "gulp prod"
+    "start:prod": "gulp prod",
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "dependencies": {
     "acl": "^0.4.9",
     "body-parser": "~1.15.1",
+    "bower": "^1.7.9",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "express": "~4.13.4",

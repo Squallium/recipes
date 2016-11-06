@@ -1,3 +1,6 @@
+# Project
+public/lib
+
 # JetBrains WebStorm
 .idea/workspace.xml
 .idea/vcs.xml
